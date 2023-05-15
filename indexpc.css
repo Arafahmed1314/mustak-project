@@ -1,0 +1,141 @@
+.nav{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 15rem;
+}
+body{
+    width: 122rem;
+    height: 100%; 
+    box-shadow: 0.3rem 0.3rem 0.8rem #13c253,-0.3rem -0.3rem 0.8rem #f51841;
+}
+.nav ul{
+    flex-direction: row;
+    gap: 2rem;
+}
+.nav ul li :last-child{
+    margin-right: 3rem;
+}
+.nav-heading{
+    margin-left: 4rem;
+
+}
+.nav a{
+    font-size: 1.9rem;
+}
+.nav-desc{
+    width: 80%;
+}
+.nav-desc h2{
+    font-size: 4.7rem;
+font-weight: 600;
+font-family: 'Montserrat', sans-serif;
+
+}
+.nav-btn{
+    padding: 2.1rem 1rem;
+    width: 20%;
+}
+#service-section{
+    padding-top: 10.5rem;
+}
+.serve-heading{
+    font-size: 4.5rem;
+}
+.service-desc{
+    width: 60%;
+}
+.service-img{
+    flex-direction: row;
+}
+.team-cards{
+    flex-direction: row;
+   
+}
+.team-cards{
+    justify-content: space-evenly;
+}
+.skill-sub-heading{
+    width: 50%;
+    margin: auto;
+}
+.skill-progress{
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 3rem 1rem;
+    margin: 5rem auto;
+}
+#skill-section{
+    padding: 7rem 1rem;
+}
+.skill-first{
+    flex: 5;
+}
+.skill-second{
+    flex: 5;
+}
+
+.port-desc{
+    width: 50%;
+}
+.portfolio-section{
+    flex-direction: row;
+}
+.portfolio-section{
+    width: 88%;
+    margin: auto;
+}
+.about-1{
+    flex-direction: row;
+    padding: 4rem 1rem;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+.about-2{
+    flex-direction: row;
+    padding: 4rem 1rem;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;   
+}
+.part-1, .part-2{
+    flex-direction: row;
+}
+.part-1-desc h1,h3{
+    text-align: left;
+    padding-left: 2rem;
+}
+.contact-text{
+    flex-direction: row;
+}
+.contact-text input{
+    padding: 2rem ;
+ 
+    padding-right: 16.4rem ;
+}
+.contact-area textarea{
+
+
+    padding: 5rem 1rem;
+    padding-right: 59rem;
+    
+    }
+    .contact-btn{
+        padding: 2rem 7rem;
+    }
+    .footer-icon button{
+        margin: 0 1rem;
+    }
+    .footer-desc{
+        padding-bottom: 0;
+    }
+    .footer-icon button {
+        width: 8rem;
+       height: 5rem;
+    }
+    
+ 
